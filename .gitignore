@@ -1,0 +1,9 @@
+# Ignore model
+models/food_demand_model.pkl
+
+# Ignore virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
